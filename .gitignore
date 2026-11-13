@@ -1,0 +1,27 @@
+# Raw datasets
+dataset/
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*
+
+# SQL Server local database files
+*.mdf
+*.ldf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
