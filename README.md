@@ -477,6 +477,6 @@ The emphasis is not only on visualization, but on **data quality, analytical rea
 
 If you would like to discuss this project or my work:
 
-- **LinkedIn:** [Add LinkedIn profile]
-- **Portfolio:** [Add portfolio URL]
-- **GitHub:** [Add GitHub profile]
+- **LinkedIn:** https://www.linkedin.com/in/anabeniteznajarro/ 
+- **Portfolio:** https://anabenitez.tech/
+- **GitHub:** https://github.com/anabenitez-tech
